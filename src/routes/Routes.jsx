@@ -1,7 +1,7 @@
 import { Route, Routes } from "react-router-dom";
-import Home from "../components/views/Home/Home";
-import About from "../components/views/About/About";
-import Contact from "../components/views/Contact/Contact";
+import Home from "../views/Home/Home";
+import About from "../views/About/About";
+import Contact from "../views/Contact/Contact";
 
 const AppRouter = () => {
   return (
